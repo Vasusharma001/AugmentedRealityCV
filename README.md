@@ -42,8 +42,4 @@ Developed collaboratively by our team as part of our **Computer Vision** coursew
 - **Sample Data**: Reference images and videos for testing the AR effect  
 - **Documentation**: Instructions and details about setup and usage  
 - **Demo**: Videos and screenshots demonstrating the project in action
-
-## 🛠️ Setup & Installation  
-1. **Clone this repository**  
-   ```bash  
-   git clone https://github.com/username/augmented-reality-project.git  
+  
